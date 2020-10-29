@@ -1,0 +1,19 @@
+
+.Task {
+    padding: 5px;
+    border-radius: 5px;
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.task-selected {
+    /*background-color: darkgray;*/
+}
+
+.Task > img {
+    margin: 0 2px;
+}
